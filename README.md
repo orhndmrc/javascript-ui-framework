@@ -1,6 +1,6 @@
 # Prerequisites
-1 - node js --> https://nodejs.org/en/download
-2 - VSCode 
+- node js --> https://nodejs.org/en/download
+- VSCode 
 
 # Install libraries
 - `npm install`
