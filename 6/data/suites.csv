@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1679","should get error for registering new user with existing email","","Thu Feb 20 19:46:09 GMT 2025","passed","Thu Feb 20 19:46:10 GMT 2025","","Login Tests","",""
+"","934","should login with valid credentials","","Thu Feb 20 19:46:06 GMT 2025","passed","Thu Feb 20 19:46:07 GMT 2025","","Login Tests","",""
+"","699","should get error with invalid credentils ","","Thu Feb 20 19:46:05 GMT 2025","passed","Thu Feb 20 19:46:06 GMT 2025","","Login Tests","",""
+"","2104","should create new contact","","Thu Feb 20 19:46:16 GMT 2025","passed","Thu Feb 20 19:46:18 GMT 2025","","Contact Tests","",""
+"","312","should delete existing contact","","Thu Feb 20 19:46:22 GMT 2025","passed","Thu Feb 20 19:46:22 GMT 2025","","Contact Tests","",""
+"","4007","should edit existing contact","","Thu Feb 20 19:46:18 GMT 2025","passed","Thu Feb 20 19:46:22 GMT 2025","","Contact Tests","",""
+"","1989","should register new user","","Thu Feb 20 19:46:07 GMT 2025","passed","Thu Feb 20 19:46:09 GMT 2025","","Login Tests","",""
