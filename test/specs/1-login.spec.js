@@ -4,7 +4,6 @@ import {getRandomNum} from '../utils/randomNum.js'
 import LoginPage from '../pageobjects/login.page.js'
 import HomePage from '../pageobjects/home.page.js'
 import SignUpPage from '../pageobjects/signup.page.js'
-//
 
 describe('Login Tests', () => {
 
