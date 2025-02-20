@@ -29,7 +29,7 @@ export const config = {
       //browserVersion: '124.0.6367.209',
       "goog:chromeOptions": {
         args: [
-          //"--headless",
+          "--headless",
           "--start-maximized",
           "--ignore-certificate-errors",
           "--incognito",
