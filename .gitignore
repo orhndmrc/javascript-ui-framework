@@ -1,0 +1,9 @@
+node_modules
+output/
+jsonReporter.json
+testResults.json
+package-lock.json
+mochaOutput/*.json
+allure-results
+allure-report
+_results_
